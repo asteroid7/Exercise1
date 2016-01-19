@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://asteroid7.github.io/exercise1/</loc>
+    <loc>http://asteroid7.github.io/exercise1/blog/2013/06/15/tywin-lannister-quote/</loc>
+    <lastmod>2013-06-15T09:28:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://asteroid7.github.io/exercise1/404.html</loc>
   </url>
   <url>
     <loc>http://asteroid7.github.io/exercise1/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://asteroid7.github.io/exercise1/</loc>
+  </url>
+  <url>
+    <loc>http://asteroid7.github.io/exercise1/blog/</loc>
+  </url>
+  <url>
+    <loc>http://asteroid7.github.io/exercise1/blog/categories/etc/</loc>
   </url>
 </urlset>
