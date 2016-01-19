@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://asteroid7.github.io/exercise1/sitemap.xml 
