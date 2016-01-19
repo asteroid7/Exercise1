@@ -4,7 +4,7 @@
   <title><![CDATA[Situation on Asteroid7 - Exercise 1]]></title>
   <link href="http://asteroid7.github.io/exercise1/atom.xml" rel="self"/>
   <link href="http://asteroid7.github.io/exercise1/"/>
-  <updated>2016-01-18T23:13:56-05:00</updated>
+  <updated>2016-01-18T23:45:15-05:00</updated>
   <id>http://asteroid7.github.io/exercise1/</id>
   <author>
     <name><![CDATA[James Jordan]]></name>
@@ -18,22 +18,90 @@
     <link href="http://asteroid7.github.io/exercise1/blog/2016/01/18/exercise1/"/>
     <updated>2016-01-18T23:07:54-05:00</updated>
     <id>http://asteroid7.github.io/exercise1/blog/2016/01/18/exercise1</id>
-    <content type="html"><![CDATA[<p>Situation on Asteroid 7 let&rsquo;s you play the part of a data-based investigator, combining different data together to solve a mystery.</p>
+    <content type="html"><![CDATA[<p>&lt;&lt; NEWS BULLETIN TO NEW AMERICAN PUBLIC RADIO >></p>
 
-<p>&ndash;OR&ndash;</p>
+<p>Alonzo Poole: &ldquo;It is 10:42AM March 26th, 2074 and I&rsquo;m here on the scene of a protest happening now about the Asteroid 7 Situation. Anonymous sources claiming to be on Asteroid 7 state that the shortage of Antedilluvidium is a lie. This news shook our nation&rsquo;s capital, where citizens have been the hardest hit by the shortage. </p>
 
-<p>Situation on Asteroid 7(SA7) let&rsquo;s you conduct metadata analysis to catch the bad guy just like on TV!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tywin Lannister Quote]]></title>
-    <link href="http://asteroid7.github.io/exercise1/blog/2013/06/15/tywin-lannister-quote/"/>
-    <updated>2013-06-15T09:28:00-04:00</updated>
-    <id>http://asteroid7.github.io/exercise1/blog/2013/06/15/tywin-lannister-quote</id>
-    <content type="html"><![CDATA[<p>A nice quote by Tywin Lannister taken from <em>A Storm of Sword</em> book.</p>
+<p>Antedilluvidium is the mineral that fuels our protection domes during the Solar Crests that started 15 years ago. Without sufficient protection, people undergo &lsquo;Sun Flu,&rsquo; a debilitating condition that can last for weeks. Some citizens like Mariah Jackson have been extremely affected."</p>
 
-<blockquote><p>The greatest fools are ofttimes more clever then the men who laugh at them.</p><footer><strong>Tywin Lannister</strong> <cite>A Storm of Swords</cite></footer></blockquote>
+<p>Mariah Jackson:  &ldquo;I&rsquo;ve had Sun Flu three times because my neighborhood just can&rsquo;t outbid others in the area also looking to have enough of the rock to protect their residents. The idea that someone up there might be holding out on us is downright shameful. We&rsquo;re hoping we can pressure the government into increasing transparency and taking action to help us.&rdquo;</p>
+
+<p>Alonzo Poole: &ldquo;With no resolution forthcoming, Capital residents wonder how long this situation will be allowed to continue. They are trying to get their message heard by officials in the area, but so far the only change has been an increase in the number of patrols.</p>
+
+<p>Reporting live on the Asteroid 7 Situation, I&rsquo;m Alonzo Poole."</p>
+
+<hr />
+
+<p><br>
+&lt;&lt; GENERAL BROADCAST TO ASTEROID 7 >></p>
+
+<p>ALCON,</p>
+
+<p>We&rsquo;ve got a good old fashioned witch hunt on our hands. The higher-ups here on Asteroid 7 have got wind of someone releasing sensitive information to the press and that just will not do. We&rsquo;ve called in a plumber to fix the leak so it&rsquo;s time to make your peace with God, keep your head down, and hope you dodge the blow back. Because there&rsquo;s gonna be some blow back.</p>
+
+<p>S/F,</p>
+
+<p>James Jordan</p>
+
+<p>Operations Officer - At Large</p>
+
+<p><a href="&#109;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#106;&#x6a;&#x6f;&#x72;&#x64;&#97;&#110;&#64;&#97;&#115;&#x74;&#x65;&#114;&#111;&#x69;&#100;&#55;&#x2e;&#x63;&#x6f;&#x6d;">&#106;&#x6a;&#x6f;&#x72;&#100;&#x61;&#x6e;&#x40;&#x61;&#x73;&#116;&#101;&#114;&#x6f;&#x69;&#x64;&#55;&#46;&#x63;&#111;&#x6d;</a></p>
+
+<hr />
+
+<p><br>
+&lt;&lt; BRIEFING FOR THE PLUMBER >></p>
+
+<p>Plumber,</p>
+
+<p>There have been several data leaks to the press that we want you to investigate and take care of. Mission Command has a few hypotheses we want you to evaluate and report back on. I&rsquo;ve attached the first of these and some documentation for your in-flight perusal.</p>
+
+<p>We&rsquo;ve got a whole slew of comms data ready for you the second you breach the airlock. Unfortunately, with all the rapid development of the Asteroid over the last 5 years, we&rsquo;ve just been tacking on new system after new system so things are a bit messy. Nothing you can&rsquo;t clean up though. You&rsquo;ll notice we&rsquo;ve adopted conventions very similar to back home so that should give you some familiar footing.</p>
+
+<p>Now go find that leak.</p>
+
+<p>S/F,</p>
+
+<p>James Jordan</p>
+
+<p>Operations Officer - At Large</p>
+
+<p><a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#106;&#x6a;&#111;&#x72;&#100;&#97;&#110;&#x40;&#x61;&#x73;&#116;&#101;&#114;&#111;&#105;&#100;&#55;&#46;&#x63;&#111;&#109;">&#106;&#106;&#x6f;&#114;&#x64;&#97;&#110;&#x40;&#97;&#x73;&#x74;&#x65;&#x72;&#111;&#105;&#x64;&#55;&#x2e;&#99;&#x6f;&#x6d;</a></p>
+
+<hr />
+
+<p><br>
+&lt;&lt; TIMELINE >></p>
+
+<p>04NOV2073
+Report 1 Occurred. First blurb about possible coverup of Antedilluvidium stockpiles appears in niche trade publication, Minerals and Metals Digest. Author: Roger Hoyt.</p>
+
+<p>10NOV2073
+Report 2 Occurred. Unnamed sources confirm existence of stockpiles in niche trade publication, Minerals and Metals Digest. Author: Roger Hoyt.</p>
+
+<p>22MAR2074
+Report 3 Occurred. First instance in mainstream media. Reporter: Ellen Comstock-Dominguez</p>
+
+<p>25MAR2074
+First protest over the issue.</p>
+
+<hr />
+
+<p><br>
+&lt;&lt; HYPOTHESES >></p>
+
+<p>Hypothesis 1:
+One individual communicated with one reporter via a unique external phone number once between 03NOV2073 and 10NOV2073 and never again. Look through the data and get in touch with me at <a href="&#109;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x6a;&#106;&#x6f;&#114;&#100;&#97;&#110;&#64;&#97;&#115;&#x74;&#x65;&#x72;&#111;&#105;&#x64;&#x37;&#46;&#99;&#x6f;&#x6d;">&#x6a;&#x6a;&#x6f;&#x72;&#100;&#x61;&#110;&#64;&#x61;&#x73;&#116;&#x65;&#114;&#111;&#x69;&#100;&#55;&#x2e;&#x63;&#x6f;&#109;</a> when you think you&rsquo;ve found something.</p>
+
+<p>Data Download:</p>
+
+<ul>
+<li><a href="http://asteroid7.github.io/exercise1/exercise1/t.tar.gz">All Data</a></li>
+<li><a href="http://asteroid7.github.io/exercise1/exercise1/data1.csv">Data 1</a></li>
+<li><a href="http://asteroid7.github.io/exercise1/exercise1/data2.csv">Data 2</a></li>
+<li><a href="http://asteroid7.github.io/exercise1/exercise1/data3.csv">Data 3</a></li>
+<li><a href="http://asteroid7.github.io/exercise1/exercise1/data4.csv">Data 4</a></li>
+</ul>
 
 ]]></content>
   </entry>
