@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Situation on Asteroid7 - Exercise 1]]></title>
   <link href="http://asteroid7.github.io/exercise1/atom.xml" rel="self"/>
   <link href="http://asteroid7.github.io/exercise1/"/>
-  <updated>2016-01-18T23:00:37-05:00</updated>
+  <updated>2016-01-18T23:13:56-05:00</updated>
   <id>http://asteroid7.github.io/exercise1/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[James Jordan]]></name>
+    <email><![CDATA[jjordan@asteroid7.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Exercise 1]]></title>
+    <link href="http://asteroid7.github.io/exercise1/blog/2016/01/18/exercise1/"/>
+    <updated>2016-01-18T23:07:54-05:00</updated>
+    <id>http://asteroid7.github.io/exercise1/blog/2016/01/18/exercise1</id>
+    <content type="html"><![CDATA[<p>Situation on Asteroid 7 let&rsquo;s you play the part of a data-based investigator, combining different data together to solve a mystery.</p>
+
+<p>&ndash;OR&ndash;</p>
+
+<p>Situation on Asteroid 7(SA7) let&rsquo;s you conduct metadata analysis to catch the bad guy just like on TV!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tywin Lannister Quote]]></title>

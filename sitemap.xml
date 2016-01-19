@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://asteroid7.github.io/exercise1/blog/2016/01/18/exercise1/</loc>
+    <lastmod>2016-01-18T23:07:54-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://asteroid7.github.io/exercise1/blog/2013/06/15/tywin-lannister-quote/</loc>
     <lastmod>2013-06-15T09:28:00-04:00</lastmod>
   </url>

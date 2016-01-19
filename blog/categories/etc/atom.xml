@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: etc | My Octopress Blog]]></title>
+  <title><![CDATA[Category: etc | Situation on Asteroid7 - Exercise 1]]></title>
   <link href="http://asteroid7.github.io/exercise1/blog/categories/etc/atom.xml" rel="self"/>
   <link href="http://asteroid7.github.io/exercise1/"/>
-  <updated>2016-01-18T23:00:37-05:00</updated>
+  <updated>2016-01-18T23:13:56-05:00</updated>
   <id>http://asteroid7.github.io/exercise1/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[James Jordan]]></name>
+    <email><![CDATA[jjordan@asteroid7.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
